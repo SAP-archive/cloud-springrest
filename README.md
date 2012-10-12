@@ -1,7 +1,7 @@
 SAP NetWeaver Cloud Samples - springrest
 ========
 
-This sample demonstrates how-to expose services as a public RESTful API using Apache CFX(http://cxf.apache.org/) and the Spring framework (http://www.springsource.org/spring-framework).
+This sample demonstrates how-to expose services as a public RESTful API using [Apache CFX](http://cxf.apache.org/) and the [Spring framework](http://www.springsource.org/spring-framework).
 
 Quick start
 -----------
