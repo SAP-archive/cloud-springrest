@@ -2,19 +2,10 @@ This program refreces the following third party open source or other free downlo
 The third party licensors of these components may provide additional license rights, 
 terms and conditions and/or require certain notices as described below. 
 
-Apache Commons IO (http://commons.apache.org/io/)
-Licensed under Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
-
 Apache CXF (http://cxf.apache.org/)
 Licensed under Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
 
 Jettison (http://jettison.codehaus.org/)
-Licensed under Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
-
-Rome (http://java.net/projects/rome/pages/Home)
-Licensed under Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
-
-JDOM (http://www.jdom.org/)
 Licensed under Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
 
 Spring framework (http://www.springsource.org/spring-framework)
