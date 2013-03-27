@@ -1,4 +1,4 @@
-SAP NetWeaver Cloud Samples - springrest
+SAP HANA Cloud Samples - springrest
 ========
 
 This sample demonstrates how-to expose services as a public RESTful API using [Apache CFX](http://cxf.apache.org/) and the [Spring framework](http://www.springsource.org/spring-framework).
@@ -6,13 +6,13 @@ This sample demonstrates how-to expose services as a public RESTful API using [A
 Quick start
 -----------
 
-Clone the repo, `git clone https://github.com/sapnwcloud/springrest.git`, or [download the latest release](https://github.com/sapnwcloud/springrest/zipball/master).
+Clone the repo, `git clone https://github.com/sap/cloud-springrest.git`, or [download the latest release](https://github.com/sap/cloud-springrest/zipball/master).
 
 
 Versioning
 ----------
 
-For transparency and insight into our release cycle, and for striving to maintain backward compatibility, the SAP NetWeaver Cloud - Samples project will be maintained under the Semantic Versioning guidelines as much as possible.
+For transparency and insight into our release cycle, and for striving to maintain backward compatibility, the SAP HANA Cloud - Samples project will be maintained under the Semantic Versioning guidelines as much as possible.
 
 Releases will be numbered with the following format:
 
