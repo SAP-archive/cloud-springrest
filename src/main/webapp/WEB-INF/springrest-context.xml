@@ -12,7 +12,7 @@
 
 	<context:component-scan base-package="com.sap.netweaver.cloud.samples.springrest.srv" />
 
-	<jaxrs:server id="restContainer" address="/api/v1">
+	<jaxrs:server id="restContainer" address="/v1">
 		<jaxrs:serviceBeans>
 			<ref bean="userService" />
 		</jaxrs:serviceBeans>

@@ -23,7 +23,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>CXFServlet</servlet-name>
-    <url-pattern>/*</url-pattern>
+    <url-pattern>/api/*</url-pattern>
   </servlet-mapping>
   
 	<!-- 
@@ -31,7 +31,7 @@
 		https://help.netweaver.ondemand.com/default.htm?enabling_id.html#concept_93EA4D93901D4E63B7F6F447F14AD5D2_79
 	--> 
 	<login-config>
-	  <auth-method>SAML2</auth-method>
+	  <auth-method>FORM</auth-method>
 	</login-config>
 	<security-constraint>
 	  <web-resource-collection>
