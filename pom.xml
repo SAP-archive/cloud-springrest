@@ -12,11 +12,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.sap.netweaver.cloud.sample</groupId>
+	<groupId>com.sap.hana.cloud.samples</groupId>
 	<artifactId>springrest</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
-	<name>SAP NetWeaver Cloud - Samples - springrest</name>
+	<name>SAP HANA Cloud Platform - Samples - springrest</name>
 	<description>This sample demonstrates how-to expose services as a public RESTful API using Apache CFX and the Spring framework.</description>
 
 	<organization>
@@ -26,9 +26,8 @@
 
 	<developers>
 		<developer>
-			<name>SAP NetWeaver Cloud</name>
-			<email>netweaver-cloud@sap.com</email>
-			<url>http://netweaver.ondemand.com</url>
+			<name>SAP HANA Cloud Platform</name>
+			<url>http://hana.ondemand.com</url>
 			<organization>SAP AG</organization>
 			<organizationUrl>http://www.sap.com/</organizationUrl>
 		</developer>
@@ -43,7 +42,7 @@
 	</licenses>
 
 	<properties>
-		<nw.cloud.jdk.version>1.6</nw.cloud.jdk.version>
+		<jdk.version>1.6</jdk.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<org.apache.cxf.version>2.6.1</org.apache.cxf.version>
 		<org.springframework.version>3.1.2.RELEASE</org.springframework.version>
@@ -142,8 +141,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>2.5.1</version>
 				<configuration>
-					<source>${nw.cloud.jdk.version}</source>
-					<target>${nw.cloud.jdk.version}</target>
+					<source>${jdk.version}</source>
+					<target>${jdk.version}</target>
 					<showDeprecation>true</showDeprecation>
 					<showWarnings>true</showWarnings>
 				</configuration>
